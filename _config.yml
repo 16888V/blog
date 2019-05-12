@@ -1,1 +1,6 @@
+_layouts
+_includes
+_sass
+assets
+remote_theme: baseurl
 theme: jekyll-theme-slate
